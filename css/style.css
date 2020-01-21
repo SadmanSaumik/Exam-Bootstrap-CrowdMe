@@ -240,6 +240,7 @@ header{
 /* media query */
 
 @media (min-width:0) and (max-width:575px){
+	
 	.container-nav{
 		padding: 0;
 	}
@@ -414,8 +415,6 @@ header{
 	.card-visit {
 		margin: 35px 15px;
 	}
-
-
 }
 
 @media (min-width:767.01px) and (max-width:991px){
